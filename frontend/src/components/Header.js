@@ -1,10 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
 
-function Header(props) {
+function Header({ title, children }) {
   return (
     <header>
-      <h1>{props.title}</h1>
+      <h1>{title}</h1>
+      {children}
     </header>
   )
 };

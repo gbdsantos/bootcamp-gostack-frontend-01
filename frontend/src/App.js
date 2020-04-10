@@ -30,7 +30,7 @@ function App() {
   return (
     <>
       <Header title="Homepage" />
-      <img src={backgroundImage} />
+      <img width={300} src={backgroundImage} />
       <ul>
         {projects.map(project => <li key={project}>{project}</li>)}
       </ul>

@@ -4,7 +4,7 @@
 
 ## :rocket: Front-end with <span style="color:deepskyblue;">ReactJS</span>
 
-First **ReactJS** project **configurated from zero** of the **second week(F 02)** of BootStamp GoStack 11.
+First **ReactJS** project **configurated FROM SCRATCH** of the **second week(F 02)** of BootStamp GoStack 11.
 
 // Add explosion mind gif here 
 
@@ -87,6 +87,12 @@ yarn add style-loader css loader -D
 
 # Webpack File Loader
 yarn add file-loader
+```
+
+5. Integrate with Back-end
+```Bash
+# Add dependency to work with HTTP Requests
+yarn add axios
 ```
 
 ## :man_astronaut: Author

@@ -21,6 +21,7 @@
     "webpack-cli": "^3.3.11"
   },
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.9.0",
     "css": "^2.2.4",
     "css-loader": "^3.5.1",
     "loader": "^2.1.1",

@@ -93,6 +93,9 @@ yarn add file-loader
 ```Bash
 # Add dependency to work with HTTP Requests
 yarn add axios
+
+# Use async functions
+yarn add @babel/plugin-transform-runtime
 ```
 
 ## :man_astronaut: Author

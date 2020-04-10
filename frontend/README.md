@@ -6,7 +6,7 @@
 
 First **ReactJS** project **configurated FROM SCRATCH** of the **second week(F 02)** of BootStamp GoStack 11.
 
-// Add explosion mind gif here 
+<img alt="Explode Mind" src="https://i.lensdump.com/i/jCAAnK.gif" height="280" />
 
 Project completed on 09/04/2020.
 

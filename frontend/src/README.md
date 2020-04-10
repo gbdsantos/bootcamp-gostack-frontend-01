@@ -80,6 +80,12 @@ yarn add webpack-dev-server -D
 yarn webpack-dev-server --mode development
 ```
 
+4. Working with CSS
+```Bash
+# Webpack CSS Loaders
+yarn add style-loader css loader -D
+```
+
 ## :man_astronaut: Author
 
 **Guilherme Bezerra** ©️

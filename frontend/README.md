@@ -4,7 +4,7 @@
 
 ## :rocket: Front-end with <span style="color:deepskyblue;">ReactJS</span>
 
-First **ReactJS** project **configurated FROM SCRATCH** of the **second week(F 02)** of BootStamp GoStack 11.
+First **ReactJS** project **configurated FROM SCRATCH** of the **first week(F 02)** of BootStamp GoStack 11.
 
 <img alt="Explode Mind" src="https://i.lensdump.com/i/jCAAnK.gif" height="280" />
 
